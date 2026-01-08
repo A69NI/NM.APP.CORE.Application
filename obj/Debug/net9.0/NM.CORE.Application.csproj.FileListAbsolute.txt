@@ -1,0 +1,15 @@
+C:\Users\an\source\repos\A69NI\NM.CORE.Application\bin\Debug\net9.0\NM.CORE.Application.deps.json
+C:\Users\an\source\repos\A69NI\NM.CORE.Application\bin\Debug\net9.0\NM.CORE.Application.dll
+C:\Users\an\source\repos\A69NI\NM.CORE.Application\bin\Debug\net9.0\NM.CORE.Application.pdb
+C:\Users\an\source\repos\A69NI\NM.CORE.Application\bin\Debug\net9.0\NM.CORE.Domain.dll
+C:\Users\an\source\repos\A69NI\NM.CORE.Application\bin\Debug\net9.0\NM.CORE.Domain.pdb
+C:\Users\an\source\repos\A69NI\NM.CORE.Application\obj\Debug\net9.0\NM.CORE.Application.csproj.AssemblyReference.cache
+C:\Users\an\source\repos\A69NI\NM.CORE.Application\obj\Debug\net9.0\NM.CORE.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\an\source\repos\A69NI\NM.CORE.Application\obj\Debug\net9.0\NM.CORE.Application.AssemblyInfoInputs.cache
+C:\Users\an\source\repos\A69NI\NM.CORE.Application\obj\Debug\net9.0\NM.CORE.Application.AssemblyInfo.cs
+C:\Users\an\source\repos\A69NI\NM.CORE.Application\obj\Debug\net9.0\NM.CORE.Application.csproj.CoreCompileInputs.cache
+C:\Users\an\source\repos\A69NI\NM.CORE.Application\obj\Debug\net9.0\NM.CORE..95211502.Up2Date
+C:\Users\an\source\repos\A69NI\NM.CORE.Application\obj\Debug\net9.0\NM.CORE.Application.dll
+C:\Users\an\source\repos\A69NI\NM.CORE.Application\obj\Debug\net9.0\refint\NM.CORE.Application.dll
+C:\Users\an\source\repos\A69NI\NM.CORE.Application\obj\Debug\net9.0\NM.CORE.Application.pdb
+C:\Users\an\source\repos\A69NI\NM.CORE.Application\obj\Debug\net9.0\ref\NM.CORE.Application.dll
