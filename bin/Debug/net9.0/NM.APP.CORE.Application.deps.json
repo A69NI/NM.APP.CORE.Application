@@ -8,15 +8,15 @@
     ".NETCoreApp,Version=v9.0": {
       "NM.APP.CORE.Application/1.0.0": {
         "dependencies": {
-          "NM.CORE.Domain": "1.0.0"
+          "NM.APP.CORE.Domain": "1.0.0"
         },
         "runtime": {
           "NM.APP.CORE.Application.dll": {}
         }
       },
-      "NM.CORE.Domain/1.0.0": {
+      "NM.APP.CORE.Domain/1.0.0": {
         "runtime": {
-          "NM.CORE.Domain.dll": {
+          "NM.APP.CORE.Domain.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -30,7 +30,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "NM.CORE.Domain/1.0.0": {
+    "NM.APP.CORE.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,5 +1,5 @@
-﻿using NM.CORE.Domain.Entities;
-using NM.CORE.Domain.Repositories;
+﻿using NM.APP.CORE.Domain.Entities;
+using NM.APP.CORE.Domain.Repositories;
 
 namespace NM.CORE.Application.Services
 {

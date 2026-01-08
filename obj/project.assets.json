@@ -34,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\an\\source\\repos\\A69NI\\NM.CORE.Application\\NM.APP.CORE.Application.csproj",
+      "projectUniqueName": "C:\\Users\\an\\source\\repos\\A69NI\\NM.APP.CORE.Application\\NM.APP.CORE.Application.csproj",
       "projectName": "NM.APP.CORE.Application",
-      "projectPath": "C:\\Users\\an\\source\\repos\\A69NI\\NM.CORE.Application\\NM.APP.CORE.Application.csproj",
+      "projectPath": "C:\\Users\\an\\source\\repos\\A69NI\\NM.APP.CORE.Application\\NM.APP.CORE.Application.csproj",
       "packagesPath": "C:\\Users\\an\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\an\\source\\repos\\A69NI\\NM.CORE.Application\\obj\\",
+      "outputPath": "C:\\Users\\an\\source\\repos\\A69NI\\NM.APP.CORE.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 25.2\\Components\\Offline Packages",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\an\\source\\repos\\A69NI\\NM.CORE.Application\\NM.APP.CORE.Application.csproj": {}
+    "C:\\Users\\an\\source\\repos\\A69NI\\NM.APP.CORE.Application\\NM.APP.CORE.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\an\\source\\repos\\A69NI\\NM.APP.CORE.Domain\\NM.APP.CORE.Domain.csproj": {
+    "C:\\Users\\an\\source\\repos\\A69NI\\NM.APP.CORE.Application\\NM.APP.CORE.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\an\\source\\repos\\A69NI\\NM.APP.CORE.Domain\\NM.APP.CORE.Domain.csproj",
-        "projectName": "NM.APP.CORE.Domain",
-        "projectPath": "C:\\Users\\an\\source\\repos\\A69NI\\NM.APP.CORE.Domain\\NM.APP.CORE.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\an\\source\\repos\\A69NI\\NM.APP.CORE.Application\\NM.APP.CORE.Application.csproj",
+        "projectName": "NM.APP.CORE.Application",
+        "projectPath": "C:\\Users\\an\\source\\repos\\A69NI\\NM.APP.CORE.Application\\NM.APP.CORE.Application.csproj",
         "packagesPath": "C:\\Users\\an\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\an\\source\\repos\\A69NI\\NM.APP.CORE.Domain\\obj\\",
+        "outputPath": "C:\\Users\\an\\source\\repos\\A69NI\\NM.APP.CORE.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 25.2\\Components\\Offline Packages",
@@ -35,7 +35,11 @@
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\an\\source\\repos\\A69NI\\NM.APP.CORE.Domain\\NM.APP.CORE.Domain.csproj": {
+                "projectPath": "C:\\Users\\an\\source\\repos\\A69NI\\NM.APP.CORE.Domain\\NM.APP.CORE.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -73,14 +77,14 @@
         }
       }
     },
-    "C:\\Users\\an\\source\\repos\\A69NI\\NM.CORE.Application\\NM.APP.CORE.Application.csproj": {
+    "C:\\Users\\an\\source\\repos\\A69NI\\NM.APP.CORE.Domain\\NM.APP.CORE.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\an\\source\\repos\\A69NI\\NM.CORE.Application\\NM.APP.CORE.Application.csproj",
-        "projectName": "NM.APP.CORE.Application",
-        "projectPath": "C:\\Users\\an\\source\\repos\\A69NI\\NM.CORE.Application\\NM.APP.CORE.Application.csproj",
+        "projectUniqueName": "C:\\Users\\an\\source\\repos\\A69NI\\NM.APP.CORE.Domain\\NM.APP.CORE.Domain.csproj",
+        "projectName": "NM.APP.CORE.Domain",
+        "projectPath": "C:\\Users\\an\\source\\repos\\A69NI\\NM.APP.CORE.Domain\\NM.APP.CORE.Domain.csproj",
         "packagesPath": "C:\\Users\\an\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\an\\source\\repos\\A69NI\\NM.CORE.Application\\obj\\",
+        "outputPath": "C:\\Users\\an\\source\\repos\\A69NI\\NM.APP.CORE.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 25.2\\Components\\Offline Packages",
@@ -104,11 +108,7 @@
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
-            "projectReferences": {
-              "C:\\Users\\an\\source\\repos\\A69NI\\NM.APP.CORE.Domain\\NM.APP.CORE.Domain.csproj": {
-                "projectPath": "C:\\Users\\an\\source\\repos\\A69NI\\NM.APP.CORE.Domain\\NM.APP.CORE.Domain.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
