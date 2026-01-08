@@ -1,7 +1,7 @@
 ﻿using NM.APP.CORE.Domain.Entities;
 using NM.APP.CORE.Domain.Repositories;
 
-namespace NM.CORE.Application.Services
+namespace NM.APP.CORE.Application.Services
 {
     public class TBL_AN_UNIProzess_MainTreeService
     {

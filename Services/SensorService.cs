@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NM.CORE.Application.Services
+namespace NM.APP.CORE.Application.Services
 {
     public class SensorService
     {
